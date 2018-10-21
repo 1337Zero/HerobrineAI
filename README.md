@@ -16,22 +16,18 @@ Building
 
 **1. Clone project**  
 ```
-git clone git://github.com/jakub1221/HerobrineAI.git 
+https://github.com/1337Zero/HerobrineAI.git
 ```
 
-**2. Install maven with jdk**  
-[Tutorial here](http://maven.apache.org/install.html)
+**3. Install Spigot**  
+This Plugin was build with and for Spigot 1.12.2 
+In order to get spigot you need to run [BuildTools](https://www.spigotmc.org/wiki/buildtools/).
 
-**3. Install Craftbukkit**  
-Plugin uses NMS code that is located in craftbukkit.  
-In order to get craftbukkit installed to local maven repository you need to run [BuildTools](https://www.spigotmc.org/wiki/buildtools/).
-
-**4. Build plugin**  
-```
-mvn clean install
-```
-Plugin will be located in target directory after building is done.
-
-Downloads
+Original Idea
 ---------
-You can download latest build from jenkins site [here](http://jenkins.logicshard.com/job/HerobrineAI/).
+The original Idea is from:
+
+```
+https://github.com/jakub1221/HerobrineAI
+```
+
